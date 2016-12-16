@@ -10,7 +10,6 @@ public class Charmander extends Pokemon {
 	@Override
 	public void attack() {
 		System.out.println("Ember...");
-
 	}
 
 }

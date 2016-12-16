@@ -10,7 +10,6 @@ public class Main {
 	    Bulbasaur bulbasaur = new Bulbasaur("My First Bulbasaur", PokemonType.GRASS, 589);
 	    bulbasaur.attack();
 
-
 	}
 
 }

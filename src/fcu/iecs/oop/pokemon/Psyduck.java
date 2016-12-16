@@ -13,5 +13,4 @@ public class Psyduck extends Pokemon {
 		System.out.println("Aqua Tail...");
 
 	}
-
 }
